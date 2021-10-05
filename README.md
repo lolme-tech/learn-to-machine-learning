@@ -1,3 +1,5 @@
 # Graduation thesis
-卒論研究テーマである人工知能を搭載した学習アプリのレポジトリ
-学習者の学習状況を予測し、それに応じた最適な問題を提示するアプリを開発中
+This repositories have Learning App which has an Artificial Intelligence as my guraduation thesis.
+Developping Learning App predicts app users educational ethos and proposes optimal question accordinglly.
+
+
